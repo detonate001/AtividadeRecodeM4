@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+body{
+
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+
+}
+
+header .navbar{
+  
+    align-content: center;
+  
+ 
+}
+
+header .logo{
+    color: blue;
+    font-family: 'Arial Black', 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 10px;
+
+}
+
+header nav a:hover{
+    color: gray;
+}
+
+
