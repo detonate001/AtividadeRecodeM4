@@ -13,5 +13,5 @@ Atividade para o curso Recode (HTML,CSS , bootstrap e java)
  - CRUD (Java)
 
 ## 🚀 Aluno
- - Gabriel Leão
+ - Gabriel Leão.
 
