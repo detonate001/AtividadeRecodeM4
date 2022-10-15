@@ -7,9 +7,10 @@ Atividade para o curso Recode (HTML,CSS , bootstrap e java)
 
 ## Conteudo
 
- - Atividade CRUD (JAVA)
- - Atividade ( Código Fonte )
-
+ - CRUD (JAVA)
+ - Modelo conceitual do banco de dados (BRModelo)
+ - Banco de dados (SQL)
+ - CRUD (Java)
 
 ## 🚀 Aluno
  - Gabriel Leão
